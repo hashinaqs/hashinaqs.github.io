@@ -2,7 +2,7 @@
 
 ---
 
-### PROJECT
+### Hashina Project
 
 [Project Dummy](https://github.com/hashinaqs/hashinaqs.github.io/blob/main/DUMMY.ipynb)
 
