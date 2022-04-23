@@ -2,10 +2,9 @@
 
 ---
 
-### Category Name 1 
+### PROJECT
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project Dummy](https://github.com/hashinaqs/hashinaqs.github.io/blob/main/DUMMY.ipynb)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
