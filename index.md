@@ -16,7 +16,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 4 Title](/pdf/Tugas Mandiri Pertemuan 15_Hashina Qawlan Sadida_UGM03_Universitas Gadjah Mada.ipynb/)
+[Project 4 Title](/Tugas Mandiri Pertemuan 15_Hashina Qawlan Sadida_UGM03_Universitas Gadjah Mada.ipynb)
 
 
 ### Category Name 2
