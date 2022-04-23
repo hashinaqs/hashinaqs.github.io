@@ -16,7 +16,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 4 Title](https://github.com/hashinaqs/hashinaqs.github.io/blob/main/Tugas%20Mandiri%20Pertemuan%2015_Hashina%20Qawlan%20Sadida_UGM03_Universitas%20Gadjah%20Mada.ipynb)
+[Project 4 Title](https://github.com/hashinaqs/hashinaqs.github.io/blob/main/Tugas%20Mandiri%20Pertemuan%2010_Hashina%20Qawlan%20Sadida_UG03.ipynb)
 
 
 ### Category Name 2
