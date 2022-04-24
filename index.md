@@ -2,7 +2,7 @@
 
 ---
 
-### Hashina Project
+### Project
 
 [Project Dummy](https://github.com/hashinaqs/hashinaqs.github.io/blob/main/DUMMY.ipynb)
 
@@ -15,7 +15,6 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 4 Title](https://github.com/hashinaqs/hashinaqs.github.io/blob/main/Tugas%20Mandiri%20Pertemuan%2010_Hashina%20Qawlan%20Sadida_UG03.ipynb)
 
 
 ### Category Name 2
